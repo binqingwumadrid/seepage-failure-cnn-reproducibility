@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the accompanying article."
+type: software
+title: "Reproducible forward-inverse CNN framework for seepage-failure prediction"
+version: 1.0.0
+date-released: 2026-09-08
+authors:
+  - family-names: Wu
+    given-names: Binqing
+  - family-names: Wang
+    given-names: Ning
+  - family-names: Pastor
+    given-names: Manuel
+  - family-names: Gu
+    given-names: Chongshi
+  - family-names: Shao
+    given-names: Chenfei
+  - family-names: Chen
+    given-names: Yijun

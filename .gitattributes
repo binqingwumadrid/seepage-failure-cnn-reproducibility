@@ -1,0 +1,6 @@
+*.py text eol=lf
+*.m text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+/raw_sph_data/**/*.csv filter=lfs diff=lfs merge=lfs -text
+/raw_sph_data_modified_geometry/**/*.csv filter=lfs diff=lfs merge=lfs -text

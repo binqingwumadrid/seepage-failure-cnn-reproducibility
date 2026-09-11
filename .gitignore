@@ -1,0 +1,15 @@
+.venv/
+**/__pycache__/
+*.py[cod]
+**/outputs/
+*.pt
+*.pth
+/generated_data/**/*.png
+/modified_geometry_sph/
+/modified_geometry_sph_autodl/
+/modified_geometry_sph_autodl.zip
+/upload_modified_geometry_sph_autodl.tar.gz
+/raw_sph_data_modified_geometry_all.tar.gz
+/raw_sph_data_modified_geometry/**/*.json
+.idea/
+.DS_Store
